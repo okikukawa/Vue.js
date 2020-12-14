@@ -25,9 +25,9 @@ new Vue({
           course: this.course,
           acceptancePeriod: this.acceptancePeriod
         });
-        // this.name: "";
-        // this.course: "";
-        // this.acceptancePeriod: "";
+        this.name = "";
+        this.course = "";
+        this.acceptancePeriod = "";
     }
   }
 })
